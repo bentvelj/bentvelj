@@ -6,4 +6,4 @@
 
 Hello! My name is Jared Bentvelsen, and I'm currently working as a static analysis intern at Synopsys Inc.
 
-On the side, I'm learning Node.js and Express.
+On the side, I'm learning Node.js and the Express framework.
