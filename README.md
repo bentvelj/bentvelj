@@ -5,7 +5,7 @@
 **Here are some of the languages and tools I have experience with:**
 
 <!--<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />-->
-[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][C++]
+[<img align="left" alt="C++" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][C++]
 [<img align="left" alt="C" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][C]
 [<img align="left" alt="Java" width="34px" height="34px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][Java]
 [<img align="left" alt="Python" width="32px" height="32px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
