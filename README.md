@@ -18,9 +18,9 @@
 [<img align="left" alt="MongoDB" width="30px" height="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][MongoDB]
 [<img align="left" alt="VSC" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />][VSC]
 
-<img align="left" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<!--<img align="left" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+<img align="left" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>-->
 
 [C++]: http://www.cplusplus.com/
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
