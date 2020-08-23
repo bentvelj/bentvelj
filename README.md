@@ -15,7 +15,7 @@
 <!--[<img align="left" alt="Bash" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][Bash]-->
 [<img align="left" alt="Bash" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][Bash]
 
-[<img align="left" alt="MongoDB" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
+[<img align="left" alt="MongoDB" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][MongoDB]
 
 [C++]: http://www.cplusplus.com/
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
