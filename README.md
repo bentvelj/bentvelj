@@ -12,7 +12,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="Bash" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][Bash]
+<!--[<img align="left" alt="Bash" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][Bash]-->
+[<img align="left" alt="Bash" width="26px" height="26px" src="68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32302f426173685f4c6f676f5f626c61636b5f616e645f77686974655f69636f6e5f6f6e6c792e7376672f3132303070782d426173685f4c6f676f5f626c61636b5f616e645f77686974655f69636f6e5f6f6e6c792e7376672e706e67g" />][Bash]
 [<img align="left" alt="MongoDB" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
 
 [C++]: http://www.cplusplus.com/
