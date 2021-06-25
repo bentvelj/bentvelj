@@ -1,6 +1,6 @@
 **Hello! My name is Jared Bentvelsen, and I'm currently working as an SDE Intern at Amazon.**
 
-**I'm currently working on writing VSCode extensions with TypeScript **
+**I'm currently working on writing VSCode extensions with TypeScript**
 
 **Here are some of the languages and tools I have experience with:**
 
