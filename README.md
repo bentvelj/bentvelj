@@ -1,7 +1,5 @@
 **Hello! My name is Jared Bentvelsen, and I'm currently working as an SDE Intern at Amazon.**
 
-**I'm currently working on writing VSCode extensions with TypeScript**
-
 **Here are some of the languages and tools I have experience with:**
 
 <!--<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />-->
