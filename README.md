@@ -1,4 +1,4 @@
-**Hello! My name is Jared Bentvelsen, and I'm currently working as an SDE Intern at Amazon.**
+**Hello! My name is Jared Bentvelsen, and I'm currently an incoming SDE Intern at Amazon.**
 
 **Here are some of the languages and tools I have experience with:**
 
