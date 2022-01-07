@@ -33,5 +33,5 @@
 [Bash]: https://www.gnu.org/software/bash/
 [MongoDB]: https://www.mongodb.com/
 [VSC]: https://code.visualstudio.com/
-[SQL]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+[SQL]: https://en.wikipedia.org/wiki/SQL
 
