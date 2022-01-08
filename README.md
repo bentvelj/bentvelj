@@ -1,6 +1,6 @@
 **Hello! My name is Jared Bentvelsen, and I'm a returning SDE Intern at Amazon in Vancouver.**
 
-Right now I'm working on learning the Vue.js framework!
+Right now I'm working on learning the **Vue.js** framework!
 
 Here are some of the languages and tools I have experience with:
 
