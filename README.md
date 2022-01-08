@@ -1,6 +1,8 @@
-**Hello! My name is Jared Bentvelsen, and I'm currently an incoming SDE Intern at Amazon.**
+**Hello! My name is Jared Bentvelsen, and I'm an incoming SDE Intern at Amazon.**
 
-**Here are some of the languages and tools I have experience with:**
+Right now I'm working on learning the Vue.js framework!
+
+Here are some of the languages and tools I have experience with:
 
 <!--<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />-->
 [<img align="left" alt="C++" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][C++]
