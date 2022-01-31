@@ -1,4 +1,4 @@
-**Hello! My name is Jared Bentvelsen, and I'm a returning SDE Intern at Amazon in Vancouver.**
+**Hello! My name is Jared, and I'm a returning SDE Intern at Amazon in Vancouver.**
 
 Right now I'm working on learning the **Vue.js** framework!
 
