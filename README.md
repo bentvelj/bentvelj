@@ -1,7 +1,5 @@
 **Hello! My name is Jared, and I'm a returning SDE Intern at Amazon in Vancouver.**
 
-Right now I'm working on learning the **Vue.js** framework!
-
 Here are some of the languages and tools I have experience with:
 
 <!--<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />-->
