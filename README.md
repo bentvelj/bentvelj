@@ -1,4 +1,4 @@
-**Hello! My name is Jared, and I'm finishing off my Software Engineering Degree at McMaster University!
+**Hello! My name is Jared, and I'm finishing off my Software Engineering Degree at McMaster University!**
 
 Here are some of the languages and tools I have experience with:
 
