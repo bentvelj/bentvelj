@@ -1,4 +1,4 @@
-**Hello! My name is Jared, and I'm currently an SDE at AWS Vancouver**
+**Hello! My name is Jared, and I'm currently an SDE at AWS Vancouver.**
 
 Here are some of the languages and tools I have experience with:
 
